@@ -110,9 +110,7 @@
  ;;  :editor/right           ["ctrl+l" "right"]}
  :shortcuts
  {:editor/backspace ["backspace" "ctrl+h"]
-  :editor/new-block ["enter" "ctrl+m"]
-  :editor/indent ["tab" "ctrl+["]
-  :editor/outdent ["shift+tab" "ctrl+@"]}
+  :editor/new-block ["enter" "ctrl+m"]}
 
  ;; By default, pressing `Enter` in the document mode will create a new line.
  ;; Set this to `true` so that it's the same behaviour as the usual outliner mode.
